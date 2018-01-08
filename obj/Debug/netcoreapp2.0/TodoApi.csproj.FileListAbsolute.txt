@@ -1,0 +1,10 @@
+/Users/khernandezr/Documents/workshop/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.deps.json
+/Users/khernandezr/Documents/workshop/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.runtimeconfig.json
+/Users/khernandezr/Documents/workshop/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.runtimeconfig.dev.json
+/Users/khernandezr/Documents/workshop/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.dll
+/Users/khernandezr/Documents/workshop/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.pdb
+/Users/khernandezr/Documents/workshop/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.csproj.CoreCompileInputs.cache
+/Users/khernandezr/Documents/workshop/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.AssemblyInfoInputs.cache
+/Users/khernandezr/Documents/workshop/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.AssemblyInfo.cs
+/Users/khernandezr/Documents/workshop/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.dll
+/Users/khernandezr/Documents/workshop/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.pdb
